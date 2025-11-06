@@ -18,7 +18,7 @@ public class Employee {
   private Long empId;
 
   @Column
-  private String name;
+  private String fullname;
 
   @Column
   private String email; 
